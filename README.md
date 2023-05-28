@@ -30,6 +30,7 @@
 
 <ul>
   <a href="https://www.linkedin.com/in/suleiman-jaber/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+  <a href="https://wegate.net/"><img src="https://img.shields.io/badge/website-%230077B5.svg?style=for-the-badge&logoColor=pink"> </a>
   </ul>
   
   
