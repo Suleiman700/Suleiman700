@@ -1,49 +1,39 @@
-<h3><a id="user-content--about-me" class="anchor" aria-hidden="true" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> &nbsp;About Me</h3>
+# 👋 Hi, I'm Suleiman
 
-- 👋 Hello, I’m @Suleiman700.
-- 👀 Interested in Web Development.
-- 📜 I'm currently a Full Stack Developer in PHP.
-- 🏃‍♂️ Moving to MERN Stack :)
+🚀 Senior Full Stack Developer with 6+ years of professional experience  
+💡 Passionate about creating scalable web applications and innovative solutions  
+🔍 Always exploring cutting-edge technologies and architectural patterns  
+🤝 Open to collaboration, mentoring, and building impactful projects
 
+---
 
-<h3><a id="user-content--tech-stack" class="anchor" aria-hidden="true" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> &nbsp;Tech Stack</h3>
-<ul>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" data-canonical-src="https://img.shields.io/badge/-HTML-333333?style=flat&amp;logo=HTML5" style="max-width:100%;">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-333333?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" style="max-width:100%;">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" style="max-width:100%;">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" style="max-width:100%;">
-  <img src="https://img.shields.io/badge/Php-%23563D7C.svg?style=for-the-badge&logo=php&logoColor=white" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/Php-%23563D7C.svg?style=for-the-badge&logo=php&logoColor=white" style="max-width:100%;">
-  <br>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" data-canonical-src="https://img.shields.io/badge/-MongoDB-333333?style=flat&amp;logo=mongodb" style="max-width:100%;"></li>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express.js" data-canonical-src="https://img.shields.io/badge/-Node.js-333333?style=flat&amp;logo=node.js" style="max-width:100%;">
-  <img src="https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" data-canonical-src="https://img.shields.io/badge/-React-333333?style=flat&amp;logo=react" style="max-width:100%;">
-  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" data-canonical-src="https://img.shields.io/badge/-Node.js-333333?style=flat&amp;logo=node.js" style="max-width:100%;">
-  <br>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" style="max-width:100%;">
-  <img src="https://img.shields.io/badge/PhpStorm-%23563D7C.svg?style=for-the-badge&logo=PhpStorm&logoColor=white" alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width:100%;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suleiman700&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" height="150" style="margin-right:10px;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Suleiman700&theme=vue-dark&hide_border=false" height="150" style="margin-right:10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suleiman700&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
+</p>
 
-</li>
-  </ul>
-  
-  <br>
-<h3><a id="user-content--tech-stack" class="anchor" aria-hidden="true" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> &nbsp;Reach Me On</h3>
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,php,mongodb,mysql,tailwind,bootstrap,jquery,docker,cloudflare,linux,windows,git,github,vscode,postman" />
+</p>
+
+---
+
+<h3>🌐 Reach Me On</h3>
 
 <ul>
   <a href="https://www.linkedin.com/in/suleiman-jaber/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  <a href="https://wegate.net/"><img src="https://img.shields.io/badge/website-%230077B5.svg?style=for-the-badge&logoColor=pink"> </a>
-  </ul>
-  
-  
-  <br>
-  
-  
-  <h3><a id="user-content--tech-stack" class="anchor" aria-hidden="true" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">💵</g-emoji> &nbsp;Support Me</h3>
-  
-  
-<ul>
-<a href="https://www.buymeacoffee.com/SuleimanJaber" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"> </a>
-  
-  <a href="https://www.patreon.com/Suleiman97" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"> </a>
 </ul>
   
-  
+---
+
+<h3>💵 Support Me</h3>
+
+<ul>
+  <a href="https://www.buymeacoffee.com/SuleimanJaber" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"> </a>
+</ul>
+
