@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suleiman
 
-🚀 Senior Full Stack Developer with 6+ years of professional experience  
+🚀 Senior Full Stack Developer with 6+ years of experience  
 💡 Passionate about creating scalable web applications and innovative solutions  
 🔍 Always exploring cutting-edge technologies and architectural patterns  
 🤝 Open to collaboration, mentoring, and building impactful projects
